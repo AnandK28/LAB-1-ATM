@@ -7,23 +7,24 @@ System.
 To create ATM System software that will meet the needs of the applicant and help them
 to withdraw money,deposit.
 ### UML DIAGRAMS:
-USE CASE DIAGRAM
-![Screenshot 2025-08-18 210547](https://github.com/user-attachments/assets/3165e0a3-874e-4035-abbf-bc586d5b24b6)
 
-CLASS DIAGRAM
-![Screenshot 2025-08-18 210547](https://github.com/user-attachments/assets/6b358137-f8fa-4667-810c-378e184b6bda)
+## USE CASE DIAGRAM:
+![usecase1](https://github.com/user-attachments/assets/5c007195-9553-4534-b161-073289ccec0b)
 
-PACKAGE DIAGRAM
-![Screenshot 2025-08-18 210617](https://github.com/user-attachments/assets/2cb23d0e-c80d-41f1-a29c-9fdd899196b9)
+## ACTIVITY DIAGRAM:
+![acti1](https://github.com/user-attachments/assets/0637fd9e-3566-47be-84fa-171f285b7fad)
 
-SEQUENCE DIAGRAM
-![Screenshot 2025-08-18 210656](https://github.com/user-attachments/assets/7c1aa94b-a053-4106-9ca7-e7b161d915ce)
+## CLASS DIAGRAM:
+![class1](https://github.com/user-attachments/assets/0b95ce41-1045-40a4-ab7e-4c4e7db25aa8)
 
-ACTIVITY DIAGRAM
-![Screenshot 2025-08-18 210722](https://github.com/user-attachments/assets/7a609f77-7456-4f50-b9ad-3f6228929f18)
+## COMMUNICATION DIAGRAM:
+![comm1](https://github.com/user-attachments/assets/fb5b8075-694c-4c69-9258-565828b9f298)
 
-COMMUICATION DIAGRAM
-![Screenshot 2025-08-18 210751](https://github.com/user-attachments/assets/068c82bc-e2bc-431c-b0a6-d1bb0bd89bb7)
+## PACKAGE DIAGRAM:
+![package1](https://github.com/user-attachments/assets/4f723db0-18ce-400d-b5a9-a59d56dffd23)
+
+## SEQUENCE DIAGRAM:
+![seq1](https://github.com/user-attachments/assets/510160f1-4a10-41b5-a04b-cd76aa77d010)
 
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
